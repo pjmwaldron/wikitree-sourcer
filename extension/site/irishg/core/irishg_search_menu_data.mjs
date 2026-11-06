@@ -37,7 +37,7 @@ const subcategories = [
     text: "All records in lifetime",
     category: "all",
     startYear: 1845,
-    endYear: 1973,
+    endYear: 1975,
   },
   {
     value: "all_events",
@@ -46,7 +46,7 @@ const subcategories = [
     includeSpouses: true,
     includeMmn: true,
     startYear: 1845,
-    endYear: 1973,
+    endYear: 1975,
   },
   {
     value: "all_births",
@@ -54,7 +54,7 @@ const subcategories = [
     category: "all",
     includeMmn: true,
     startYear: 1864,
-    endYear: 1923,
+    endYear: 1925,
   },
   {
     value: "all_baptisms",
@@ -70,7 +70,7 @@ const subcategories = [
     category: "all",
     includeSpouses: true,
     startYear: 1845,
-    endYear: 1948,
+    endYear: 1950,
   },
   {
     value: "all_deaths",
@@ -78,7 +78,7 @@ const subcategories = [
     category: "all",
     includeAgeAtDeath: true,
     startYear: 1871,
-    endYear: 1973,
+    endYear: 1975,
   },
   {
     value: "all_burials",
@@ -93,7 +93,7 @@ const subcategories = [
     text: "All records in lifetime",
     category: "civil",
     startYear: 1845,
-    endYear: 1973,
+    endYear: 1975,
   },
   {
     value: "civil_events",
@@ -102,7 +102,7 @@ const subcategories = [
     includeSpouses: true,
     includeMmn: true,
     startYear: 1845,
-    endYear: 1973,
+    endYear: 1975,
   },
   {
     value: "civil_births",
@@ -110,7 +110,7 @@ const subcategories = [
     category: "civil",
     includeMmn: true,
     startYear: 1864,
-    endYear: 1923,
+    endYear: 1925,
   },
   {
     value: "civil_marriages",
@@ -118,7 +118,7 @@ const subcategories = [
     category: "civil",
     includeSpouses: true,
     startYear: 1845,
-    endYear: 1948,
+    endYear: 1950,
   },
   {
     value: "civil_deaths",
@@ -126,7 +126,7 @@ const subcategories = [
     category: "civil",
     includeAgeAtDeath: true,
     startYear: 1871,
-    endYear: 1973,
+    endYear: 1975,
   },
 
   {
